@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The kryptonOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sweet.mk
+    $(LOCAL_DIR)/krypton_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_sweet-user \
-    lineage_sweet-userdebug \
-    lineage_sweet-eng
+    krypton_sweet-user \
+    krypton_sweet-userdebug \
+    krypton_sweet-eng
